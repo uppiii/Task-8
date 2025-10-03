@@ -1,4 +1,5 @@
 Power BI Dashboard Assignment Guide
+
 Step 1: Load Your Data
 
 Open Power BI Desktop.
